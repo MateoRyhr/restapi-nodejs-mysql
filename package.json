@@ -1,0 +1,24 @@
+{
+  "name": "restapi-nodejs-mysql",
+  "version": "1.0.0",
+  "description": "Una Rest API construida con NodeJS y MySQL",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoRyhr/restapi-nodejs-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoRyhr/restapi-nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/MateoRyhr/restapi-nodejs-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
